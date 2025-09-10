@@ -1,2 +1,2 @@
-# Virtual-Desktops-Folder-Manager
-Virtual Desktops Folder Manager for Windows 11
+# Virtual-Desktop-Manager
+Virtual Desktop Manager for Windows 11
